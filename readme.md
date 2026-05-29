@@ -21,6 +21,7 @@ Here's a list of all the tags I've used, with definitions.
 **Number of drones:**
 
 - `1-drone`
+- `2-drones`
 
 All videos contain exactly one of these tags.
 
