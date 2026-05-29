@@ -1,0 +1,7 @@
+0    - Friday
+33   - Saturday
+66   - Sunday
+99   - Monday
+132
+165  - Tuesday
+198
