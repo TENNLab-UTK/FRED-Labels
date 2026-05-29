@@ -1,36 +1,36 @@
-  0, train, -
-  1, train, -
-  2, train, -
-  3, train, -
-  4, train, -
-  5, train, -
-  6, train, -
-  7, train, -
-  8, test , -
-  9, test , -
- 10, train, -
- 11, train, -
- 12, test , -
- 13, train, -
- 14, train, -
- 15, train, -
- 16, train, -
- 17, train, -
- 18, train, -
- 19, train, -
- 20, test , -
- 21, test , -
- 22, train, -
- 23, train, -
- 24, train, -
- 25, train, -
- 26, train, -
- 27, train, -
- 28, train, -
- 29, test , -
- 30, train, -
- 31, train, -
- 32, train, -
+  0, train, 1-drone, outside, no-obstructions
+  1, train, 1-drone, outside, no-obstructions
+  2, train, 1-drone, outside, no-obstructions
+  3, train, 1-drone, outside, no-obstructions
+  4, train, 1-drone, outside, no-obstructions
+  5, train, 1-drone, outside, far-away 
+  6, train, 1-drone, outside, far-away 
+  7, train, 1-drone, outside, no-obstructions
+  8, test , 1-drone, outside, far-away 
+  9, test , 1-drone, outside, far-away 
+ 10, train, 1-drone, outside, birds 
+ 11, train, 1-drone, outside, birds 
+ 12, test , 1-drone, outside, far-away 
+ 13, train, 1-drone, outside, no-obstructions
+ 14, train, 1-drone, outside, no-obstructions
+ 15, train, 1-drone, outside, no-obstructions
+ 16, train, 1-drone, outside, no-obstructions
+ 17, train, 1-drone, outside, no-obstructions
+ 18, train, 1-drone, outside, no-obstructions
+ 19, train, 1-drone, outside, no-obstructions
+ 20, test , 1-drone, outside, no-obstructions
+ 21, test , 1-drone, outside, far-away, dark
+ 22, train, 1-drone, outside, far-away, bugs
+ 23, train, 1-drone, outside, far-away, lens-flare
+ 24, train, 1-drone, outside, no-obstructions
+ 25, train, 1-drone, outside, far-away, birds
+ 26, train, 1-drone, outside, no-obstructions
+ 27, train, 1-drone, outside, no-obstructions
+ 28, train, 1-drone, outside, no-obstructions
+ 29, test , 1-drone, outside, lens-flare 
+ 30, train, 1-drone, outside, far-away 
+ 31, train, 2-drones, outside, no-obstructions 
+ 32, train, 2-drones, outside, no-obstructions 
  33, train, -
  34, test , -
  35, train, -
