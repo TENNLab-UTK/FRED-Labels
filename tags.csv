@@ -31,24 +31,24 @@
  30, train, 1-drone, outside, far-away 
  31, train, 2-drones, outside, no-obstructions 
  32, train, 2-drones, outside, no-obstructions 
- 33, train, -
- 34, test , -
- 35, train, -
- 36, train, -
- 37, train, -
- 38, train, -
- 39, test , -
- 40, train, -
- 41, test , -
- 42, train, -
- 43, train, -
- 44, train, -
- 45, train, -
- 46, test , -
- 47, train, -
- 48, train, -
- 49, train, -
- 50, train, -
+ 33, train, 2-drones, outside, no-obstructions
+ 34, test , 2-drones, outside, no-obstructions
+ 35, train, 2-drones, outside, no-obstructions
+ 36, train, 2-drones, outside, no-obstructions
+ 37, train, 1-drone, outside, no-obstructions
+ 38, train, 1-drone, outside, birds 
+ 39, test , 1-drone, outside, birds, far-away 
+ 40, train, 1-drone, outside, far-away, bugs 
+ 41, test , 1-drone, outside, far-away, birds 
+ 42, train, 1-drone, outside, no-obstructions 
+ 43, train, 1-drone, outside, no-obstructions 
+ 44, train, 2-drones, outside, far-away 
+ 45, train, 2-drones, outside, far-away 
+ 46, test , 2-drones, outside, far-away 
+ 47, train, 2-drones, outside, far-away 
+ 48, train, 2-drones, outside, far-away, birds 
+ 49, train, 2-drones, outside, far-away
+ 50, train, 2-drones, outside, far-away, birds, bugs 
  51, test , -
  52, train, -
  53, train, -
