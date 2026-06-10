@@ -107,39 +107,39 @@
 106, train, -
 107, train, -
 108, train, -
-109, train, -
-110, test , -
-111, test , -
-112, train, -
-113, train, -
-114, test , -
-115, test , -
-116, train, -
+109, train, -drone, outside, far-away, bugs,  
+110, test , 1-drone, outside, far-away
+111, test , 1-drone, outside, dark, far-away
+112, train, 1-drone, outside, rain, overlap
+113, train, 1-drone, outside, rain, overlap
+114, test , 1-drone, outside, rain 
+115, test , 1-drone, outside, bugs, birds, far-away
+116, train, 1-drone, outside, overlap, drone-dies
 117, train, -
-118, train, -
-119, train, -
-120, train, -
-121, train, -
-122, train, -
-123, train, -
-124, train, -
-125, train, -
-126, train, -
-127, test , -
-128, test , -
-129, test , -
-130, train, -
-131, train, -
-132, train, -
-133, train, -
-134, train, -
-135, train, -
-136, train, -
-137, train, -
-138, test , -
-139, test , -
-140, train, -
-141, train, -
+118, train, 1-drone, outside, bugs, drone-shadow
+119, train, 1-drone, outside, birds, drone-shadow
+120, train, 1-drone, outside, bugs, drone-shadow
+121, train, 1-drone, outside, drone-shadow
+122, train, 1-drone, outside, no-obstructions
+123, train, 1-drone, outside, drone-shadow 
+124, train, 1-drone, outside, drone-shadow, bugs
+125, train, 1-drone, outside, bugs 
+126, train, 1-drone, outside, overlap
+127, test , 1-drone, outside, no-obstructions
+128, test , 1-drone, outside, no-obstructions
+129, test , 1-drone, outside, no-obstructions
+130, train, 1-drone, outside, bugs, drone-shadow
+131, train, 1-drone, outside, drone-shadow, birds
+132, train, 1-drone, outside, birds, drone-shadow 
+133, train, 1-drone, outside, birds, bugs, drone-shadow
+134, train, 1-drone, outside, birds 
+135, train, 1-drone, outside, birds, drone-shadow, bugs
+136, train, 1-drone, outside, drone-shadow, bugs, birds
+137, train, 1-drone, outside, drone-shadow, birds, bugs
+138, test , 1-drone, outside, drone-shadow
+139, test , 1-drone, outside, bugs, drone-shadow
+140, train, 1-drone, outside, dark, birds
+141, train, -drone, 
 142, test , -
 143, train, -
 144, train, -
