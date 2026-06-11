@@ -158,52 +158,52 @@
 157, train, -
 158, train, -
 159, train, -
-160, train, -
-161, train, -
-162, test , -
-163, test , -
-164, train, -
-165, train, -
-166, train, -
-167, test , -
-168, train, -
-169, train, -
-170, train, -
-171, train, -
-172, train, -
-173, train, -
-174, train, -
-175, train, -
-176, train, -
-177, train, -
-178, test , -
-179, test , -
-180, train, -
-181, train, -
-182, train, -
-183, train, -
-184, train, -
-185, train, -
-186, train, -
-187, test , -
-188, train, -
-189, train, -
-190, train, -
-191, train, -
-192, train, -
-193, train, -
-194, test , -
-195, test , -
-196, test , -
-197, train, -
-198, train, -
-199, train, -
-200, train, -
-201, train, -
-202, test , -
-203, train, -
-204, train, -
-205, train, -drone, 
+160, train, -drone, 
+161, train, 1-drone, outside, dark
+162, test , 1-drone, outside, dark
+163, test , 1-drone, outside, overlap, dark
+164, train, 1-drone, outside, no-obstructions
+165, train, 1-drone, outside, no-obstructions
+166, train, 1-drone, outside, no-obstructions
+167, test , 1-drone, outside, no-obstructions
+168, train, 1-drone, inside, no-obstructions
+169, train, 1-drone, inside, no-obstructions
+170, train, 1-drone, inside, no-obstructions
+171, train, 1-drone, inside, dark, drone-dies
+172, train, 1-drone, inside, dark
+173, train, 1-drone, inside, dark
+174, train, 1-drone, inside, no-obstructions
+175, train, 1-drone, inside, dark
+176, train, 1-drone, inside, dark
+177, train, 1-drone, inside, dark
+178, test , 1-drone, inside, dark
+179, test , 1-drone, inside, no-obstructions
+180, train, 1-drone, inside, no-obstructions
+181, train, 1-drone, inside, no-obstructions
+182, train, 1-drone, inside, far-away
+183, train, 1-drone, inside, far-away
+184, train, 1-drone, inside, no-obstructions
+185, train, 1-drone, inside, far-away
+186, train, 1-drone, inside, no-obstructions 
+187, test , 1-drone, inside, no-obstructions
+188, train, 1-drone, inside, dark
+189, train, 1-drone, inside, dark
+190, train, 1-drone, inside, dark
+191, train, 1-drone, inside, dark, drone-dies
+192, train, 1-drone, inside, dark
+193, train, 1-drone, inside, dark
+194, test , 1-drone, inside, dark, drone-dies
+195, test , 1-drone, inside, dark
+196, test , 1-drone, inside, no-obstructions
+197, train, 1-drone, outside, drone-dies
+198, train, 1-drone, outside, no-obstructions
+199, train, 1-drone, outside, no-obstructions
+200, train, 1-drone, outside, no-obstructions
+201, train, 1-drone, outside, no-obstructions
+202, test , 1-drone, outside, no-obstructions
+203, train, 1-drone, outside, dark, drone-dies  
+204, train, 1-drone, outside, dark, overlap
+205, train, 1-drone, outside, dark
 206, train, 1-drone, outside, overlap, far-away
 207, train, 1-drone, outside, far-away
 208, train, 1-drone, outside, dark, overlap

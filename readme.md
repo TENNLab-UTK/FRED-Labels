@@ -28,6 +28,7 @@ All videos contain exactly one of these tags.
 **Location of footage:**
 
 - `outside`
+- `inside`
 
 All videos contain exactly one of these tags.
 
@@ -49,7 +50,7 @@ significant noise
 distoring the image and making the drone events harder to spot
 - `drone-shadow`: Drone produces a shadow which could easily be mistaken as the drone itself.
 - `overlap`: Drone overlaps with another moving thing (tree, person, etc), making its events difficult to separate from the other thing.
-- `drone-dies`: Drone suddenly falls/stops moving for much of video.
+- `drone-dies`: Drone is consecutively not present for at least half of the vidoe, usually due to dying or running into something. Also includes videos where the drone does not make an appearance for much of the video.
 - `rain`: It is raining in the video.
 - `bump`: A large amount of noise is caused by the drone operators bumping the 
 camera.
