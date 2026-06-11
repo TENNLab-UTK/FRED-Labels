@@ -85,29 +85,29 @@
  84, train, 1-drone, outside, rain, far-away, birds
  85, train, 1-drone, outside, rain, far-away
  86, train, 1-drone, outside, rain, far-away
- 87, train, -
- 88, train, -
- 89, train, -
- 90, test , -
- 91, train, -
- 92, train, -
- 93, test , -
- 94, train, -
- 95, train, -
- 96, train, -
- 97, train, -
- 98, train, -
- 99, train, -
-100, train, -
-101, train, -
-102, train, -
-103, train, -
-104, train, -
-105, train, -
-106, train, -
-107, train, -
-108, train, -
-109, train, 1-drone, outside, far-away, bugs,  
+ 87, train, 1-drone, outside, far-away 
+ 88, train, 1-drone, outside, far-away, birds 
+ 89, train, 1-drone, outside, far-away, birds 
+ 90, test , 1-drone, outside, far-away, birds 
+ 91, train, 1-drone, outside, bugs 
+ 92, train, 1-drone, outside, bugs 
+ 93, test , 1-drone, outside, bugs, drone-dies 
+ 94, train, 1-drone, outside, bugs, far-away 
+ 95, train, 1-drone, outside, bugs, far-away, birds 
+ 96, train, 1-drone, outside, bugs, far-away, birds 
+ 97, train, 1-drone, outside, bugs, far-away, birds 
+ 98, train, 1-drone, outside, bugs, far-away 
+ 99, train, 1-drone, outside, bugs, far-away, birds 
+100, train, 1-drone, outside, bugs, far-away, birds 
+101, train, 1-drone, outside, bugs, far-away, birds 
+102, train, 1-drone, outside, bugs, far-away
+103, train, 1-drone, outside, bugs, far-away
+104, train, 1-drone, outside, bugs, far-away, birds
+105, train, 1-drone, outside, bugs, far-away, birds
+106, train, 2-drones, outside, bugs, far-away
+107, train, 1-drone, outside, bugs, far-away
+108, train, 1-drone, outside, far-away
+109, train, 1-drone, outside, far-away, bugs  
 110, test , 1-drone, outside, far-away
 111, test , 1-drone, outside, dark, far-away
 112, train, 1-drone, outside, rain, overlap
