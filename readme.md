@@ -48,7 +48,7 @@ significant noise
 - `lens-flare`: There's a light source bright enough to cause lens flare,
 distoring the image and making the drone events harder to spot
 - `drone-shadow`: Drone produces a shadow which could easily be mistaken as the drone itself.
-- `overlap': Drone overlaps with another moving thing (tree, person, etc), making it's events difficult to separate from the other thing.
+- `overlap`: Drone overlaps with another moving thing (tree, person, etc), making it's events difficult to separate from the other thing.
 - `drone-dies`: Drone suddenly falls/stops moving for much of video.
 - `rain`: It is raining in the video.
 
