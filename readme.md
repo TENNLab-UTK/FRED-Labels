@@ -48,9 +48,13 @@ significant noise
 - `lens-flare`: There's a light source bright enough to cause lens flare,
 distoring the image and making the drone events harder to spot
 - `drone-shadow`: Drone produces a shadow which could easily be mistaken as the drone itself.
-- `overlap`: Drone overlaps with another moving thing (tree, person, etc), making it's events difficult to separate from the other thing.
+- `overlap`: Drone overlaps with another moving thing (tree, person, etc), making its events difficult to separate from the other thing.
 - `drone-dies`: Drone suddenly falls/stops moving for much of video.
 - `rain`: It is raining in the video.
+- `bump`: A large amount of noise is caused by the drone operators bumping the 
+camera.
+- `vehicles`: A significant amount of noise is created by vehicles in the
+background.
 
 All videos contain at least one of these tags. Videos tagged with 
 `no-obstructions` will have no other tags.
