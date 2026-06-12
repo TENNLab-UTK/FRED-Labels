@@ -115,7 +115,7 @@
 114, test , 1-drone, outside, rain 
 115, test , 1-drone, outside, bugs, birds, far-away
 116, train, 1-drone, outside, overlap, drone-dies
-117, train, -
+117, train, 1-drone, outside, bugs
 118, train, 1-drone, outside, bugs, drone-shadow
 119, train, 1-drone, outside, birds, drone-shadow
 120, train, 1-drone, outside, bugs, drone-shadow
@@ -139,26 +139,26 @@
 138, test , 1-drone, outside, drone-shadow
 139, test , 1-drone, outside, bugs, drone-shadow
 140, train, 1-drone, outside, dark, birds
-141, train, -drone, 
-142, test , -
-143, train, -
-144, train, -
-145, train, -
-146, train, -
-147, train, -
-148, train, -
-149, train, -
-150, train, -
-151, train, -
-152, test , -
-153, test , -
-154, test , -
-155, train, -
-156, train, -
-157, train, -
-158, train, -
-159, train, -
-160, train, -drone, 
+141, train, 1-drone, outside, dark
+142, test , 1-drone, outside, dark, overlap
+143, train, 1-drone, outside, no-obstructions
+144, train, 1-drone, outside, dark
+145, train, 1-drone, outside, dark, far-away, overlap
+146, train, 1-drone, outside, dark, far-away, overlap
+147, train, 1-drone, outside, dark, far-away, overlap
+148, train, 1-drone, outside, dark, far-away
+149, train, 1-drone, outside, dark, far-away, overlap
+150, train, 1-drone, outside, dark, far-away, overlap
+151, train, 1-drone, outside, dark, far-away
+152, test , 1-drone, outside, dark, far-away
+153, test , 1-drone, outside, dark, far-away, overlap
+154, test , 1-drone, outside, far-away
+155, train, 1-drone, outside, dark 
+156, train, 1-drone, outside, dark 
+157, train, 1-drone, outside, dark
+158, train, 1-drone, outside, dark
+159, train, 1-drone, outside, no-obstructions
+160, train, 1-drone, outside, dark
 161, train, 1-drone, outside, dark
 162, test , 1-drone, outside, dark
 163, test , 1-drone, outside, overlap, dark
