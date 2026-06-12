@@ -110,9 +110,9 @@
 109, train, 1-drone, outside, far-away, bugs  
 110, test , 1-drone, outside, far-away
 111, test , 1-drone, outside, dark, far-away
-112, train, 1-drone, outside, rain, overlap
-113, train, 1-drone, outside, rain, overlap
-114, test , 1-drone, outside, rain 
+112, train, 1-drone, outside, rain, overlap, vehicles
+113, train, 1-drone, outside, rain, overlap, vehicles
+114, test , 1-drone, outside, rain, vehicles
 115, test , 1-drone, outside, bugs, birds, far-away
 116, train, 1-drone, outside, overlap, drone-dies
 117, train, 1-drone, outside, bugs
@@ -138,9 +138,9 @@
 137, train, 1-drone, outside, drone-shadow, birds, bugs
 138, test , 1-drone, outside, drone-shadow
 139, test , 1-drone, outside, bugs, drone-shadow
-140, train, 1-drone, outside, dark, birds
-141, train, 1-drone, outside, dark
-142, test , 1-drone, outside, dark, overlap
+140, train, 1-drone, outside, dark, birds, vehicles
+141, train, 1-drone, outside, dark, vehicles
+142, test , 1-drone, outside, dark, overlap, vehicles
 143, train, 1-drone, outside, no-obstructions
 144, train, 1-drone, outside, dark
 145, train, 1-drone, outside, dark, far-away, overlap
